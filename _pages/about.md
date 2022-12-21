@@ -20,9 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 CSDN Blog: [Personal Blog in Chinese](https://csdn.hiuiwb.com)
 
-I am a research intern at [Toshiba-BRIL](https://www.toshiba.eu/pages/eu/Bristol-Research-and-Innovation-Laboratory/). My research interests are in Federated Learning, Multi-Robot System, Distributed Ledger Technology, Data Privacy, etc. I gradurated from the University of Bristol on 6 Dec 2022 in Communication Networks and Signal Processing. During the research project of MSc, I worked on the security challenges of the Multi-Agent System and proposed a proof of location-assisted self-supervised multi-robot cooperation framework. My academic supervisor was [Kevin Morris](https://scholar.google.com/citations?user=qye9cbwCvv0C&hl=en) and my industrial supervisor were Marius Jurt and Ben Holden.
-
-I got my bachelor's degree at [Xidian University](https://www.xidian.edu.cn/). My gradurate project was Framework Design for Federated Learning. My supervisor was [Tom H. Luan](https://scholar.google.com/citations?user=lPDUfpgAAAAJ&hl=en).
+I am a research intern at [Toshiba-BRIL](https://www.toshiba.eu/pages/eu/Bristol-Research-and-Innovation-Laboratory/). My research interests are in Federated Learning, Multi-Robot Systems, Distributed Ledger Technology, Data Privacy, etc. I graduated from the University of Bristol on 6 Dec 2022 with an MSc degree in Communication Networks and Signal Processing. During the MSc research project, I worked on the security challenges of the Multi-Agent Systems and proposed a proof of location-assisted self-supervised multi-robot cooperation framework. My academic supervisor was [Kevin Morris](https://scholar.google.com/citations?user=qye9cbwCvv0C&hl=en), and my industrial supervisors were Marius Jurt and Ben Holden.
+I got my bachelor’s degree at [Xidian University](https://www.xidian.edu.cn/). My graduate project was Framework Design for Federated Learning. My supervisor was [Tom H. Luan](https://scholar.google.com/citations?user=lPDUfpgAAAAJ&hl=en).
 
 
 
