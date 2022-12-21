@@ -4,4 +4,4 @@ date: 2022-12-06 15:59:00-0400
 inline: true
 ---
 
-Graduated from University of Bristol (With Distinctions). :sparkles:
+Graduated from University of Bristol (With Distinction). :sparkles:
