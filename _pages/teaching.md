@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching Assistant Performed at [University of Southampton](https://www.southampton.ac.uk/)
 
-Organize your courses by years, topics, or universities, however you like!
+1. Module: COMP-1215 Foundations of Computer Science 2023-2024
+2. Module: GENG-0015 Coursework 2023-2024
+3. Module: COMP-1204 Data Management 2024

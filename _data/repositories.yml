@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hiuiwb
 
 github_repos:
+  - hiuiwb/Bril-DataCenterNetworking 
+  - labuladong/fucking-algorithm
   - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ossu/computer-science
+  - Htallone/myCV
+  - librespeed/speedtest
