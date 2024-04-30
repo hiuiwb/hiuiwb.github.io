@@ -108,7 +108,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Welcome~
+  Welcome!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -163,7 +163,7 @@ disqus_shortname:  # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: # https://medium.com/@al-folio/feed
+    rss_url: https://medium.com/@hiuiwb/feed
 
 # -----------------------------------------------------------------------------
 # Collections
