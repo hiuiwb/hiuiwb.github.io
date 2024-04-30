@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student (Computer Science) @ Electronics and Computer Science, <a href='https://www.southampton.ac.uk/research/institutes-centres/web-internet-science'>WAIS</a>, University of Southampton.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University Rd.</p>
+    <p>Southampton</p>
+    <p>UK, SO17</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Evan W.(Wenbo) Wu is a PhD student at University of Southampton working under supervision of [Dr. George Konstantinidis](https://www.southampton.ac.uk/people/5xlfwx/doctor-george-konstantinidis) and [Dr. Luis-Daniel Ibáñez](https://www.southampton.ac.uk/people/5xfhk2/doctor-luis-daniel-ibanez). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Wenbo Wu completed his academic journey at the [University of Bristol](https://www.bristol.ac.uk/), where he obtained his Master of Science (MSc) degree in [Communication Networks and Signal Processing](http://www.bristol.ac.uk/study/postgraduate/2021/eng/msc-comms-networks-signal-processing/) on December 6, 2022. Throughout his MSc research project, he focused on addressing the intricate security challenges that arise in Multi-Agent Systems. He proposed an innovative proof of location-assisted self-supervised multi-robot cooperation framework as a solution. Collaborating closely with esteemed academic supervisor [Dr. Kevin Morris](https://scholar.google.com/citations?user=qye9cbwCvv0C&hl=en), as well as industrial supervisors Marius Jurt, Ben Holden and [Dr. Yichao Jin](https://scholar.google.com/citations?user=prcqwqAAAAAJ&hl=en&oi=ao) from [Toshiba Europe Ltd., Bristol](https://www.toshiba.eu/pages/eu/Bristol-Research-and-Innovation-Laboratory/), he gained invaluable insights into the practical applications of his research.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to his MSc, he got his Bachelor’s degree (information security) from [Xidian University](https://www.xidian.edu.cn/). During his undergraduate studies, he undertook a project centered around Framework Design for Federated Learning, under the guidance of his supervisor, [Dr. Tom H. Luan](https://scholar.google.com/citations?user=lPDUfpgAAAAJ&hl=en).
