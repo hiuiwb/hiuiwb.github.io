@@ -6,7 +6,7 @@ subtitle: PhD student (Computer Science) @ Electronics and Computer Science, <a 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University Rd.</p>
