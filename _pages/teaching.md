@@ -15,4 +15,4 @@ nav_order: 6
 5. Module: ELEC-1204 [Advanced Programming](https://www.ecs.soton.ac.uk/node/5779) 2024 Spring
 
 ### Reviewer Performed
-1. ECAI2024: 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (19-24 OCTOBER 2024, Santiago de Compostela)
+1. ECAI2024: [27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://www.ecai2024.eu/) (19-24 OCTOBER 2024, Santiago de Compostela)
