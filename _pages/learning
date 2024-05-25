@@ -1,12 +1,10 @@
 ---
-layout: learning
+layout: page
 permalink: /learning/
 title: learning
+description: learning resources
 nav: true
 nav_order: 7
-description: learning resources
-toc:
-  sidebar: left
 ---
 
 ### Online Videos about Writing:
