@@ -14,3 +14,5 @@ nav_order: 6
 4. Module: COMP-2211 [Software Engineering Group Project](https://www.southampton.ac.uk/courses/modules/comp2211) 2024 Spring
 5. Module: ELEC-1204 [Advanced Programming](https://www.ecs.soton.ac.uk/node/5779) 2024 Spring
 
+### Reviewer Performed
+1. ECAI2024: 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (19-24 OCTOBER 2024, Santiago de Compostela)
