@@ -13,4 +13,4 @@ nav_order: 7
 
 
 ### Courses of different topics:
-[Foundations of Knowledge Graphs](https://www.youtube.com/watch?v=CiU1sMbL3k4&list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF)
+1. [Foundations of Knowledge Graphs](https://www.youtube.com/watch?v=CiU1sMbL3k4&list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF)
