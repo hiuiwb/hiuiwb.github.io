@@ -14,3 +14,7 @@ nav_order: 7
 
 ### Courses of different topics:
 1. [Foundations of Knowledge Graphs](https://www.youtube.com/watch?v=CiU1sMbL3k4&list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF)
+
+
+### Guidance on PhD study
+1. [Research problems: too big, too small or just right?](https://phdinahundredsteps.com/2016/08/31/research-problems-too-big-too-small-or-just-right/)
