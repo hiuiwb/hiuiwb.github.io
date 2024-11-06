@@ -17,6 +17,8 @@ nav_order: 6
 7. Module: COMP-6235 [Foundations of Data Science](https://www.southampton.ac.uk/courses/modules/comp6235) 2024 Autumn
 8. Module: COMP-1312 [Programming I Lab](https://www.southampton.ac.uk/courses/modules/comp1312)
 9. Module: GENG-0015 [Coursework](https://www.southampton.ac.uk/courses/modules/geng0015) 2024-2025
+10. Module: FEEG-1201 [An Introduction to Engineering Design](https://www.southampton.ac.uk/courses/modules/feeg1201) 2024-2025
+11. Module: COMP-1311 [Mathematics I](https://www.southampton.ac.uk/courses/modules/comp1311) 2024-2025
 
 ### Reviewer Performed
 1. ECAI2024: [27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://www.ecai2024.eu/) (19-24 OCTOBER 2024, Santiago de Compostela)
