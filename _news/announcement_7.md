@@ -5,4 +5,4 @@ inline: true
 ---
 
 SYPA Application Approved by IEEE IES. :white_check_mark:
-The Young Professionals & Student Activity Committee (YPS-AC) of the Industrial Electronics Society (IES) offers financial support of up to 1500 USD to the IEEE IES S&YP members to attend IES conferences. :smile:
+The Young Professionals & Student Activity Committee (YPS-AC) of the Industrial Electronics Society (IES) offers financial support of up to 1500 USD to the IEEE IES S&YP members to attend IES conferences. :moneybag:
