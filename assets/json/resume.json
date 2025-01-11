@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Evan W. Wu",
+    "name": "Evan W.(Wenbo) Wu",
     "label": "PhD student",
     "location": {
       "postalCode": "SO17",
@@ -39,20 +39,12 @@
       "startDate": "2022",
       "endDate": "2023",
       "summary": "Secure and Secret cooperation in robot swarms."
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "The Texas Instruments Prize",
-      "date": "2023-01-16",
-      "awarder": "University of Bristol"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Proof of location verification towards trustworthy collaborative multi-vendor robotic systems",
-      "publisher": "IEEE 25th International Conference on Industrial Technology",
-      "releaseDate": "2024"
+      "name": "TP-Link Ltd..",
+      "position": "Network Engineer",
+      "startDate": "2020",
+      "endDate": "2021"
     }
   ]
 }
