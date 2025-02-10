@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Evan W.(Wenbo) Wu is a PhD student at University of Southampton working under supervision of [Dr. George Konstantinidis](https://www.southampton.ac.uk/people/5xlfwx/doctor-george-konstantinidis) and [Dr. Luis-Daniel Ibáñez](https://www.southampton.ac.uk/people/5xfhk2/doctor-luis-daniel-ibanez). 
+Wenbo (Evan) Wu is a PhD student at University of Southampton working under supervision of [Dr. George Konstantinidis](https://www.southampton.ac.uk/people/5xlfwx/doctor-george-konstantinidis) and [Dr. Luis-Daniel Ibáñez](https://www.southampton.ac.uk/people/5xfhk2/doctor-luis-daniel-ibanez). 
 
 He completed his academic journey at the [University of Bristol](https://www.bristol.ac.uk/), where he obtained his Master of Science (MSc) degree in [Communication Networks and Signal Processing](http://www.bristol.ac.uk/study/postgraduate/2021/eng/msc-comms-networks-signal-processing/) in 2022. 
 <!-- 
