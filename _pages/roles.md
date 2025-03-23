@@ -25,3 +25,9 @@ nav_order: 6
 1. ECAI2024: [27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://www.ecai2024.eu/) (19-24 OCTOBER 2024, Santiago de Compostela)
 2. ICDE2025: [41ST IEEE International Conference on Data Engineering](https://ieee-icde.org/2025/) (19-23 May 2025, Hong Kong SAR)
 
+
+### Guest Lecturer
+1. Module: GENG-0015 [Coursework](https://www.southampton.ac.uk/courses/modules/geng0015) 2024-2025
+    - Testing and Debugging
+    - Use of Graphics
+    - Human Computer Interaction (HCI)
