@@ -24,6 +24,8 @@ nav_order: 6
 ### Reviewer Performed
 1. ECAI2024: [27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://www.ecai2024.eu/) (19-24 OCTOBER 2024, Santiago de Compostela)
 2. ICDE2025: [41ST IEEE International Conference on Data Engineering](https://ieee-icde.org/2025/) (19-23 May 2025, Hong Kong SAR)
+3. ECAI2025: [28TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://ecai2025.org/) (25-30 October 2025, Bologna, Italy)
+4. ICIS2025: [2025 International Conference on Information Systems (ICIS2025)](https://icis2025.aisconferences.org/) (14-17 December 2025, Nashville)
 
 
 ### Guest Lecturer
