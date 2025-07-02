@@ -21,15 +21,19 @@ nav_order: 6
 11. Module: COMP-1311 [Mathematics I](https://www.southampton.ac.uk/courses/modules/comp1311) 2024-2025
 12. Module: COMP-1322 [Programming II](https://www.southampton.ac.uk/courses/modules/comp1322) 2024-2025 Spring
 
-### Reviewer Performed
-1. ECAI2024: [27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://www.ecai2024.eu/) (19-24 OCTOBER 2024, Santiago de Compostela)
-2. ICDE2025: [41ST IEEE International Conference on Data Engineering](https://ieee-icde.org/2025/) (19-23 May 2025, Hong Kong SAR)
-3. ECAI2025: [28TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://ecai2025.org/) (25-30 October 2025, Bologna, Italy)
-4. ICIS2025: [2025 International Conference on Information Systems (ICIS2025)](https://icis2025.aisconferences.org/) (14-17 December 2025, Nashville)
-
-
-### Guest Lecturer
+### Guest Lecturer Performed at [University of Southampton](https://www.southampton.ac.uk/)
 1. Module: GENG-0015 [Coursework](https://www.southampton.ac.uk/courses/modules/geng0015) 2024-2025
     - Testing and Debugging
     - Use of Graphics
     - Human Computer Interaction (HCI)
+
+### Conference Reviewer Performed
+1. ECAI2024: [27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://www.ecai2024.eu/) (19-24 OCTOBER 2024, Santiago de Compostela)
+2. ICDE2025: [41ST IEEE International Conference on Data Engineering](https://ieee-icde.org/2025/) (19-23 May 2025, Hong Kong SAR)
+3. ECAI2025: [28TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://ecai2025.org/) (25-30 October 2025, Bologna, Italy)
+4. ICIS2025: [2025 International Conference on Information Systems](https://icis2025.aisconferences.org/) (14-17 December 2025, Nashville)
+5. ISWC2025: [THE 24th INTERNATIONAL SEMANTIC WEB CONFERENCE](https://iswc2025.semanticweb.org/) (2-6 November 2025, Nara, Japan)
+
+### Journal Reviewer Performed
+1. IoTJ: [IEEE Internet of Things Journal](https://ieee-iotj.org/) (Jun 2025)
+
