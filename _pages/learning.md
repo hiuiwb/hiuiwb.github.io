@@ -3,7 +3,7 @@ layout: page
 permalink: /learning/
 title: learning
 description: learning resources
-nav: true
+nav: false
 nav_order: 7
 ---
 

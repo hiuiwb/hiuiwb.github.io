@@ -35,5 +35,6 @@ nav_order: 6
 5. ISWC2025: [THE 24th INTERNATIONAL SEMANTIC WEB CONFERENCE](https://iswc2025.semanticweb.org/) (2-6 November 2025, Nara, Japan)
 
 ### Journal Reviewer Performed
-1. IoTJ: [IEEE Internet of Things Journal](https://ieee-iotj.org/) (Jun 2025)
+1. IEEE IoTJ: [IEEE Internet of Things Journal](https://ieee-iotj.org/) (2025)
+2. IEEE TDSC: [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq) (2025)
 
