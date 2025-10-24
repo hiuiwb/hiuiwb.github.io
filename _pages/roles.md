@@ -20,6 +20,10 @@ nav_order: 6
 10. Module: FEEG-1201 [An Introduction to Engineering Design](https://www.southampton.ac.uk/courses/modules/feeg1201) 2024-2025
 11. Module: COMP-1311 [Mathematics I](https://www.southampton.ac.uk/courses/modules/comp1311) 2024-2025
 12. Module: COMP-1322 [Programming II](https://www.southampton.ac.uk/courses/modules/comp1322) 2024-2025 Spring
+13. Module: COMP1311 [Mathematics I](https://www.southampton.ac.uk/courses/modules/comp1311) 2025-2026
+14. Module: COMP-6235 [Foundations of Data Science](https://www.southampton.ac.uk/courses/modules/comp6235) 2025 Autumn
+15. Module: COMP2300 [Software Design and Development Project](https://www.southampton.ac.uk/courses/2026-27/modules/comp2300) 2025-2026
+
 
 ### Guest Lecturer Performed at [University of Southampton](https://www.southampton.ac.uk/)
 1. Module: GENG-0015 [Coursework](https://www.southampton.ac.uk/courses/modules/geng0015) 2024-2025

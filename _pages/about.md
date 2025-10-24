@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student (Computer Science) @ Electronics and Computer Science, <a href='https://www.southampton.ac.uk/research/institutes-centres/web-internet-science'>WAIS</a>, University of Southampton.
+subtitle: PhD Candidate (Computer Science) @ Electronics and Computer Science, <a href='https://www.southampton.ac.uk/research/institutes-centres/web-internet-science'>WAIS</a>, University of Southampton.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Wenbo (Evan) Wu is a PhD student at University of Southampton working under supervision of [Prof. George Konstantinidis](http://konstantinidis.org/) and [Dr. Luis-Daniel Ibáñez](https://www.southampton.ac.uk/people/5xfhk2/doctor-luis-daniel-ibanez). 
+Wenbo (Evan) Wu is a PhD Candidate at University of Southampton working under supervision of [Prof. George Konstantinidis](http://konstantinidis.org/) and [Dr. Luis-Daniel Ibáñez](https://www.southampton.ac.uk/people/5xfhk2/doctor-luis-daniel-ibanez). 
 
 He completed his MSc study at the [University of Bristol](https://www.bristol.ac.uk/), where he obtained his MSc degree in [Communication Networks and Signal Processing](http://www.bristol.ac.uk/study/postgraduate/2021/eng/msc-comms-networks-signal-processing/) in 2022. 
 <!-- 
