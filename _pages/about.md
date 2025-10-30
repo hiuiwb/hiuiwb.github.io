@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate (Computer Science) @ Electronics and Computer Science, <a href='https://www.southampton.ac.uk/research/institutes-centres/web-internet-science'>WAIS</a>, University of Southampton.
+subtitle: PhD Candidate (Computer Science) @ Electronics and Computer Science, <a href='https://www.southampton.ac.uk/research/institutes-centres/web-internet-science'>DAIS</a>, University of Southampton.
 
 profile:
   align: right
