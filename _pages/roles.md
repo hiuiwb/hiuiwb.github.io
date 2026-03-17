@@ -30,6 +30,9 @@ nav_order: 6
     - Testing and Debugging
     - Use of Graphics
     - Human Computer Interaction (HCI)
+2. Module: COMP-6265 [Data Economy](https://www.southampton.ac.uk/courses/2026-27/modules/comp6265) 2026-2027
+    - Trust and Reputation Management
+    - PageRank Algorithm
 
 ### Conference Reviewer Performed
 1. ECAI2024: [27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://www.ecai2024.eu/) (19-24 OCTOBER 2024, Santiago de Compostela)
@@ -39,6 +42,6 @@ nav_order: 6
 5. ISWC2025: [THE 24th INTERNATIONAL SEMANTIC WEB CONFERENCE](https://iswc2025.semanticweb.org/) (2-6 November 2025, Nara, Japan)
 
 ### Journal Reviewer Performed
-1. IEEE IoTJ: [IEEE Internet of Things Journal](https://ieee-iotj.org/) 
-2. IEEE TDSC: [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq) 
+1. IEEE IoTJ: [IEEE Internet of Things Journal](https://ieee-iotj.org/) (From 2025)
+2. IEEE TDSC: [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq) (From 2025)
 
