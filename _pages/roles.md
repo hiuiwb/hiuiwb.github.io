@@ -34,12 +34,14 @@ nav_order: 6
     - Trust and Reputation Management
     - PageRank Algorithm
 
-### Conference Reviewer Performed
+### Conference Reviewer (and/or PC member) Performed
 1. ECAI2024: [27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://www.ecai2024.eu/) (19-24 OCTOBER 2024, Santiago de Compostela)
 2. ICDE2025: [41ST IEEE International Conference on Data Engineering](https://ieee-icde.org/2025/) (19-23 May 2025, Hong Kong SAR)
 3. ECAI2025: [28TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://ecai2025.org/) (25-30 October 2025, Bologna, Italy)
 4. ICIS2025: [2025 International Conference on Information Systems](https://icis2025.aisconferences.org/) (14-17 December 2025, Nashville)
 5. ISWC2025: [THE 24th INTERNATIONAL SEMANTIC WEB CONFERENCE](https://iswc2025.semanticweb.org/) (2-6 November 2025, Nara, Japan)
+6. KDD2026: [32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://kdd2026.kdd.org/) (9-13 August 2026, Jeju, Korea)
+7. ISWC2026: [THE 25th INTERNATIONAL SEMANTIC WEB CONFERENCE](https://iswc2026.semanticweb.org/) (25-29 October 2026, Bari, Italy)
 
 ### Journal Reviewer Performed
 1. IEEE IoTJ: [IEEE Internet of Things Journal](https://ieee-iotj.org/) (From 2025)
